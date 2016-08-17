@@ -1,0 +1,28 @@
+name: w0rk
+favicon: null
+layout_spectrum: 0.540955004747957
+typography_spectrum: 0.526741427835077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.15200260723941028
+  lightness: 0.575065391138196
+  saturation: 0.33726253313943744
+  rhythmicContrast: 0.7713023817632347
+purpose: []
